@@ -13,11 +13,8 @@
  
  
  ### Tecnologias :
-<br>
 
 ### Estou aprendendo :
-
-
 
 ### Redes Sociais :
 <div>
