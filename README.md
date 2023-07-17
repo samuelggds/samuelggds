@@ -1,4 +1,4 @@
-Olá meu nome é Samuel
+##Olá meu nome é Samuel
 <br>
 Sou Desenvolvedor Front-End e atualmente estudando Back-end e React
 ## Tecnologias : 
