@@ -1,6 +1,6 @@
 Olá meu nome é Samuel
 <br>
-Sou Desenvolvedor Front-End e atualmente estudando Back-end e React na DEVCLUB <img src="https://media.licdn.com/dms/image/D4D0BAQGs0Jd8tULJZw/company-logo_200_200/0/1659810941517?e=2147483647&v=beta&t=GP5GeCtJWx0G53R9AcfzXFA77PhAs6j2_qJaiuOUg7A" width="40px" height="40px">
+Sou Desenvolvedor Front-End e atualmente estudando Back-end e React na DEVCLUB <br> <img src="https://media.licdn.com/dms/image/D4D0BAQGs0Jd8tULJZw/company-logo_200_200/0/1659810941517?e=2147483647&v=beta&t=GP5GeCtJWx0G53R9AcfzXFA77PhAs6j2_qJaiuOUg7A" width="40px" height="40px">
 
 ## Tecnologias : 
 
