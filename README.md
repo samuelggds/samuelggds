@@ -1,5 +1,5 @@
 Olá meu nome é Samuel
-Sou Desenvolvedor Front-End e atualmente estudando Back-end e React na DEVCLUB <img src="./C:\Users\samue\OneDrive\Imagens\devclub.png">
+Sou Desenvolvedor Front-End e atualmente estudando Back-end e React na DEVCLUB 
 
 
 <div>
