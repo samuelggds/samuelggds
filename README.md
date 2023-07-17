@@ -1,5 +1,4 @@
 #### Olá meu nome é Samuel , tenho 26 anos e sou de Fortaleza-CE
-
 <br>
 
  #### Sou Desenvolvedor Front-End e atualmente estudando Back-end e React 
