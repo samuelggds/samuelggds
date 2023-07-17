@@ -13,7 +13,7 @@
  
  
  ### Tecnologias : 
- <img src="" width="40" height="40"/>
+ <i class="devicon-html5-plain-wordmark colored"></i>
 
 ### Estou aprendendo :
 
