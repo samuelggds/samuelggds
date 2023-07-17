@@ -2,8 +2,8 @@
 
 <br>
 
- #### Sou Desenvolvedor Front-End e atualmente estudando Back-end e React
- ##### Atualmente estudando na DevClub e no Profissão Programador
+ #### Sou Desenvolvedor Front-End e atualmente estudando Back-end e React 
+ #### Atualmente estudando na DevClub e no Profissão Programador
 
 <br>
 
