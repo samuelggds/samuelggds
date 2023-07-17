@@ -13,7 +13,7 @@
  
  
  ### Tecnologias : 
- <img src="https://img.freepik.com/icones-gratis/html-5_318-698168.jpg?w=2000" width="40" height="40"/>
+ <img src="https://img1.gratispng.com/20180320/csq/kisspng-web-development-html-css3-canvas-element-web-desig-w3c-html5-logo-5ab0c83fd669f3.8573646215215350398782.jpg" width="40" height="40"/>
 
 ### Estou aprendendo :
 
