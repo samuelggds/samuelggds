@@ -12,7 +12,10 @@
  
  
  
- ### Tecnologias : 
+ ### Tecnologias :
+<br>
+
+### Estou aprendendo :
 
 
 
