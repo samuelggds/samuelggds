@@ -1,8 +1,8 @@
 #### Olá meu nome é Samuel
 <br>
 
- #### Sou Desenvolvedor Front-End e atualmente estudando Back-end e React 
- #### Estudo na DevClub e no Profissão Programador
+ ##### Sou Desenvolvedor Front-End e atualmente estudando Back-end e React 
+ ##### Estudo na DevClub e no Profissão Programador
 
 <br>
 
