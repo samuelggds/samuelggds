@@ -2,7 +2,7 @@
 
 <br>
 
-#### Sou Desenvolvedor Front-End e atualmente estudando Back-end e React
+ :blush: #### Sou Desenvolvedor Front-End e atualmente estudando Back-end e React
 
 <br>
 
