@@ -2,7 +2,6 @@
 <br>
 
  ##### Sou Desenvolvedor Front-End e atualmente estudando Back-end e React 
- ##### Estudo na DevClub e no Profissão Programador
 
 <br>
 
