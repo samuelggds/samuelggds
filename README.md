@@ -6,7 +6,7 @@
 
 Desenvolvendo produtos SaaS, APIs e aplicações web com foco em **arquitetura, segurança, performance e experiência do usuário**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Samuel%20Gomes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuelgds/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Samuel%20Gomes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-gomes-3493a2447/)
 [![Email](https://img.shields.io/badge/Email-Contato-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:accyt2@hotmail.com)
 
 </div>
@@ -68,7 +68,7 @@ Desenvolvendo produtos SaaS, APIs e aplicações web com foco em **arquitetura, 
 
 ## 🚀 Projetos em destaque
 
-### 🍽️ [GastroNexa — SaaS multi-restaurante](https://github.com/samuelggds/Projeto-Restaurants)
+### 🍽️ [GastroNexa — SaaS multi-restaurante](https://github.com/samuelggds/samuelggds/blob/main/portfolio/gastronexa.md)
 
 Plataforma SaaS para restaurantes com operação completa de **pedidos, mesas, cozinha e delivery**, construída com arquitetura multi-tenant.
 
@@ -79,9 +79,9 @@ Plataforma SaaS para restaurantes com operação completa de **pedidos, mesas, c
 - Integrações de pagamento, webhooks e fluxos de assinatura.
 - Testes automatizados com Playwright e CI com GitHub Actions.
 
-[![Ver repositório](https://img.shields.io/badge/Ver_repositório-GastroNexa-181717?style=for-the-badge&logo=github)](https://github.com/samuelggds/Projeto-Restaurants)
+[![Ver apresentação](https://img.shields.io/badge/Ver_apresentação-GastroNexa-181717?style=for-the-badge&logo=github)](https://github.com/samuelggds/samuelggds/blob/main/portfolio/gastronexa.md)
 
-### 🧾 [Sistema de Orçamentos](https://github.com/samuelggds/Projeto-Budget-2)
+### 🧾 [Sistema de Orçamentos](https://github.com/samuelggds/samuelggds/blob/main/portfolio/orcamentos.md)
 
 Aplicação para gestão de **orçamentos, clientes, serviços, estoque e PDFs**, com controle de acesso e cobrança recorrente.
 
@@ -92,7 +92,7 @@ Aplicação para gestão de **orçamentos, clientes, serviços, estoque e PDFs**
 - Controle de acesso por papéis e regras no banco.
 - Integração de cobrança Pix com Mercado Pago e automações de manutenção.
 
-[![Ver repositório](https://img.shields.io/badge/Ver_repositório-Orçamentos-181717?style=for-the-badge&logo=github)](https://github.com/samuelggds/Projeto-Budget-2)
+[![Ver apresentação](https://img.shields.io/badge/Ver_apresentação-Orçamentos-181717?style=for-the-badge&logo=github)](https://github.com/samuelggds/samuelggds/blob/main/portfolio/orcamentos.md)
 
 ---
 
@@ -108,6 +108,6 @@ Aplicação para gestão de **orçamentos, clientes, serviços, estoque e PDFs**
 
 Estou aberto a oportunidades e projetos com **TypeScript, Node.js, React e desenvolvimento Full Stack**.
 
-[![LinkedIn](https://img.shields.io/badge/Falar_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuelgds/)
+[![LinkedIn](https://img.shields.io/badge/Falar_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-gomes-3493a2447/)
 
 </div>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
+<title id="title">Sistema de Orçamentos</title><desc id="desc">Visão geral: clientes e serviços alimentam o orçamento, com integração de estoque e emissão de PDF.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0f172a"/><stop offset="1" stop-color="#172e47"/></linearGradient><marker id="arrow" markerWidth="9" markerHeight="9" refX="6" refY="4" orient="auto"><path d="M0 0 8 4 0 8" fill="none" stroke="#38bdf8" stroke-width="1.5"/></marker></defs>
+<rect width="1200" height="430" rx="24" fill="url(#bg)"/>
+<g font-family="Segoe UI,Arial,sans-serif">
+<text x="60" y="66" fill="#38bdf8" font-size="16" letter-spacing="2">PROJETO PESSOAL · SAMUEL GOMES</text>
+<text x="60" y="119" fill="#f8fafc" font-size="40" font-weight="700">Sistema de Orçamentos</text>
+<text x="60" y="157" fill="#cbd5e1" font-size="20">Organização administrativa em uma aplicação web e desktop</text>
+<g fill="#172b42" stroke="#456079"><rect x="60" y="215" width="228" height="100" rx="15"/><rect x="342" y="215" width="228" height="100" rx="15"/><rect x="624" y="215" width="228" height="100" rx="15"/><rect x="906" y="215" width="234" height="100" rx="15"/></g>
+<g fill="#f8fafc" font-size="21" font-weight="600" text-anchor="middle"><text x="174" y="259">Clientes e serviços</text><text x="456" y="259">Orçamento</text><text x="738" y="259">Estoque</text><text x="1023" y="259">Documento PDF</text></g>
+<g fill="#94a3b8" font-size="16" text-anchor="middle"><text x="174" y="287">Cadastro e organização</text><text x="456" y="287">Itens e acompanhamento</text><text x="738" y="287">Integração de materiais</text><text x="1023" y="287">Emissão do documento</text></g>
+<g stroke="#38bdf8" stroke-width="2" marker-end="url(#arrow)"><path d="M299 265H326"/><path d="M581 265H608"/><path d="M863 265H890"/></g>
+<text x="60" y="380" fill="#cbd5e1" font-size="18">React · TypeScript · Supabase · PostgreSQL · Tauri</text>
+<text x="1140" y="380" fill="#94a3b8" font-size="15" text-anchor="end">Visão geral funcional</text>
+</g></svg>
