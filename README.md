@@ -63,7 +63,7 @@ Desenvolvendo produtos SaaS, APIs e aplicações web com foco em **arquitetura, 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="26" height="26" alt="Docker" /> <strong>Docker</strong>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&amp;logo=amazonwebservices&amp;logoColor=white" height="26" alt="Amazon Web Services (AWS)" />
+  <img src="./assets/aws-logo-2025.svg" width="40" height="27" alt="Logo AWS" /> <strong>AWS</strong>
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="26" height="26" alt="Git" /> <strong>Git</strong>
   &nbsp;&nbsp;&nbsp;
