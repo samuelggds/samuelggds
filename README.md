@@ -18,6 +18,7 @@ Desenvolvendo produtos SaaS, APIs e aplicações web com foco em **arquitetura, 
 - Desenvolvedor **Full Stack** focado no ecossistema **JavaScript/TypeScript**.
 - Construo **SaaS multi-tenant**, APIs REST e interfaces modernas e responsivas.
 - Trabalho com **Node.js, React, PostgreSQL, Prisma, Docker e AWS**.
+- Utilizo **Figma** no trabalho com design de interfaces e na implementação de layouts responsivos.
 - Experiência prática com **autenticação e autorização, pagamentos, webhooks, tempo real, testes e CI/CD**.
 - Em constante evolução em **arquitetura de software, cloud e boas práticas de engenharia**.
 
@@ -35,6 +36,12 @@ Desenvolvendo produtos SaaS, APIs e aplicações web com foco em **arquitetura, 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="26" height="26" alt="React" /> <strong>React</strong>
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="26" height="26" alt="Vite" /> <strong>Vite</strong>
+</p>
+
+### Design & Prototipação
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="26" height="26" alt="Figma" /> <strong>Figma</strong>
 </p>
 
 ### Back-end & Dados
