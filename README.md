@@ -63,7 +63,7 @@ Desenvolvendo produtos SaaS, APIs e aplicações web com foco em **arquitetura, 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="26" height="26" alt="Docker" /> <strong>Docker</strong>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="34" height="26" alt="AWS" /> <strong>AWS</strong>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&amp;logo=amazonwebservices&amp;logoColor=white" height="26" alt="Amazon Web Services (AWS)" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="26" height="26" alt="Git" /> <strong>Git</strong>
   &nbsp;&nbsp;&nbsp;
@@ -86,7 +86,7 @@ Plataforma SaaS para restaurantes com operação completa de **pedidos, mesas, c
 - Integrações de pagamento, webhooks e fluxos de assinatura.
 - Testes automatizados com Playwright e CI com GitHub Actions.
 
-[![Ver apresentação](https://img.shields.io/badge/Ver_apresentacao-GastroNexa-181717?style=for-the-badge&logo=github)](https://github.com/samuelggds/samuelggds/blob/main/portfolio/gastronexa.md)
+📖 **[Ver apresentação da GastroNexa](https://github.com/samuelggds/samuelggds/blob/main/portfolio/gastronexa.md)**
 
 ### 🧾 [Sistema de Orçamentos](https://github.com/samuelggds/samuelggds/blob/main/portfolio/orcamentos.md)
 
@@ -99,7 +99,7 @@ Aplicação para gestão de **orçamentos, clientes, serviços, estoque e PDFs**
 - Controle de acesso por papéis e regras no banco.
 - Integração de cobrança Pix com Mercado Pago e automações de manutenção.
 
-[![Ver apresentação](https://img.shields.io/badge/Ver_apresentacao-Orçamentos-181717?style=for-the-badge&logo=github)](https://github.com/samuelggds/samuelggds/blob/main/portfolio/orcamentos.md)
+📖 **[Ver apresentação do Sistema de Orçamentos](https://github.com/samuelggds/samuelggds/blob/main/portfolio/orcamentos.md)**
 
 ---
 
