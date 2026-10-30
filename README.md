@@ -6,7 +6,7 @@
 
 Desenvolvendo produtos SaaS, APIs e aplicações web com foco em **arquitetura, segurança, performance e experiência do usuário**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Samuel%20Gomes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-gomes-3493a2447/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Samuel%20Gomes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-gomes08/)
 [![Email](https://img.shields.io/badge/Email-Contato-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:accyt2@hotmail.com)
 
 </div>
@@ -88,6 +88,8 @@ Plataforma SaaS para restaurantes com operação completa de **pedidos, mesas, c
 
 📖 **[Ver apresentação da GastroNexa](https://github.com/samuelggds/samuelggds/blob/main/portfolio/gastronexa.md)**
 
+🌐 **[Ver GastroNexa online](https://www.gastronexa.com.br/)** · 💻 **[Código do GastroNexa](https://github.com/samuelggds/Projeto-Restaurants)**
+
 ### 🧾 [Sistema de Orçamentos](https://github.com/samuelggds/samuelggds/blob/main/portfolio/orcamentos.md)
 
 Aplicação para gestão de **orçamentos, clientes, serviços, estoque e PDFs**, com controle de acesso e cobrança recorrente.
@@ -100,6 +102,10 @@ Aplicação para gestão de **orçamentos, clientes, serviços, estoque e PDFs**
 - Integração de cobrança Pix com Mercado Pago e automações de manutenção.
 
 📖 **[Ver apresentação do Sistema de Orçamentos](https://github.com/samuelggds/samuelggds/blob/main/portfolio/orcamentos.md)**
+
+💻 **[Código do MG Orçamentos](https://github.com/samuelggds/Projeto-Budget-2)** · 🌐 **[Site institucional da MG Refrigerações](https://mgrefrigeracoes.com.br/)**
+
+> O site institucional apresenta a empresa; o sistema de orçamentos é uma aplicação separada.
 
 ---
 
@@ -115,6 +121,6 @@ Aplicação para gestão de **orçamentos, clientes, serviços, estoque e PDFs**
 
 Estou aberto a oportunidades e projetos com **TypeScript, Node.js, React e desenvolvimento Full Stack**.
 
-[![LinkedIn](https://img.shields.io/badge/Falar_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-gomes-3493a2447/)
+[![LinkedIn](https://img.shields.io/badge/Falar_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-gomes08/)
 
 </div>
