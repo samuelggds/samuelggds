@@ -86,7 +86,7 @@ Plataforma SaaS para restaurantes com operação completa de **pedidos, mesas, c
 - Integrações de pagamento, webhooks e fluxos de assinatura.
 - Testes automatizados com Playwright e CI com GitHub Actions.
 
-[![Ver apresentação](https://img.shields.io/badge/Ver_apresentação-GastroNexa-181717?style=for-the-badge&logo=github)](https://github.com/samuelggds/samuelggds/blob/main/portfolio/gastronexa.md)
+[![Ver apresentação](https://img.shields.io/badge/Ver_apresentacao-GastroNexa-181717?style=for-the-badge&logo=github)](https://github.com/samuelggds/samuelggds/blob/main/portfolio/gastronexa.md)
 
 ### 🧾 [Sistema de Orçamentos](https://github.com/samuelggds/samuelggds/blob/main/portfolio/orcamentos.md)
 
@@ -99,7 +99,7 @@ Aplicação para gestão de **orçamentos, clientes, serviços, estoque e PDFs**
 - Controle de acesso por papéis e regras no banco.
 - Integração de cobrança Pix com Mercado Pago e automações de manutenção.
 
-[![Ver apresentação](https://img.shields.io/badge/Ver_apresentação-Orçamentos-181717?style=for-the-badge&logo=github)](https://github.com/samuelggds/samuelggds/blob/main/portfolio/orcamentos.md)
+[![Ver apresentação](https://img.shields.io/badge/Ver_apresentacao-Orçamentos-181717?style=for-the-badge&logo=github)](https://github.com/samuelggds/samuelggds/blob/main/portfolio/orcamentos.md)
 
 ---
 
