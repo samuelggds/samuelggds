@@ -2,125 +2,72 @@
 
 # Samuel Gomes
 
-### Full Stack Developer | TypeScript • Node.js • React
+### Desenvolvedor Full Stack | TypeScript · Node.js · React
 
-Desenvolvendo produtos SaaS, APIs e aplicações web com foco em **arquitetura, segurança, performance e experiência do usuário**.
+Construo aplicações web e produtos SaaS de ponta a ponta, do desenho da solução ao backend, banco de dados, interface, testes e implantação.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Samuel%20Gomes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-gomes08/)
+**Fortaleza, CE · Aberto a oportunidades remotas no Brasil**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-gomes08/)
+[![GastroNexa](https://img.shields.io/badge/Projeto-GastroNexa-126C9B?style=for-the-badge)](https://www.gastronexa.com.br/)
 [![Email](https://img.shields.io/badge/Email-Contato-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:accyt2@hotmail.com)
 
 </div>
 
----
+## Projetos em destaque
 
-## 👨‍💻 Sobre mim
+### 1. [GastroNexa — SaaS multi-restaurante](https://github.com/samuelggds/Projeto-Restaurants)
 
-- Desenvolvedor **Full Stack** focado no ecossistema **JavaScript/TypeScript**.
-- Construo **SaaS multi-tenant**, APIs REST e interfaces modernas e responsivas.
-- Trabalho com **Node.js, React, PostgreSQL, Prisma, Docker e AWS**.
-- Utilizo **Figma** no trabalho com design de interfaces e na implementação de layouts responsivos.
-- Experiência prática com **autenticação e autorização, pagamentos, webhooks, tempo real, testes e CI/CD**.
-- Em constante evolução em **arquitetura de software, cloud e boas práticas de engenharia**.
+**Desafio:** integrar cardápio, pedidos, atendimento, pagamentos e diferentes perfis de usuários em uma mesma plataforma, com dados separados por restaurante.
 
----
+**Minha atuação:** projeto independente em que conduzo as decisões de produto e implementação, do frontend às regras de negócio e infraestrutura.
 
-## 🧰 Stack principal
+- **Engenharia:** Node.js, Express, TypeScript, PostgreSQL, Prisma e arquitetura multi-tenant.
+- **Integrações:** Pix/cartão via Mercado Pago, webhooks e atualizações com Socket.IO.
+- **Qualidade:** Docker, CI/CD com GitHub Actions e testes automatizados.
 
-### Linguagens & Front-end
+[Site oficial](https://www.gastronexa.com.br/) · [Repositório](https://github.com/samuelggds/Projeto-Restaurants) · [Estudo de caso](portfolio/gastronexa.md) · [Arquitetura](https://github.com/samuelggds/Projeto-Restaurants/blob/main/ARCHITECTURE.md)
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="26" height="26" alt="TypeScript" /> <strong>TypeScript</strong>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="26" height="26" alt="JavaScript" /> <strong>JavaScript</strong>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="26" height="26" alt="React" /> <strong>React</strong>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="26" height="26" alt="Vite" /> <strong>Vite</strong>
-</p>
+![Prévia de telas da GastroNexa no Figma](portfolio/assets/gastronexa-home.png)
 
-### Design & Prototipação
+*Prévia visual de telas do Figma; não é uma captura de produção.*
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="26" height="26" alt="Figma" /> <strong>Figma</strong>
-</p>
+### 2. [MG Orçamentos — aplicação corporativa](https://github.com/samuelggds/Project-Budget)
 
-### Back-end & Dados
+**Desafio:** concentrar o fluxo de orçamentos, clientes, serviços, documentos e comunicação com clientes em uma ferramenta utilizada no contexto da MG Refrigerações.
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="26" height="26" alt="Node.js" /> <strong>Node.js</strong>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="26" height="26" alt="Express" /> <strong>Express</strong>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="26" height="26" alt="Prisma" /> <strong>Prisma</strong>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="26" height="26" alt="PostgreSQL" /> <strong>PostgreSQL</strong>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="26" height="26" alt="Supabase" /> <strong>Supabase</strong>
-</p>
+**Minha atuação:** desenvolvimento da aplicação em React e TypeScript, integração com Supabase e serviços de e-mail, incluindo segurança de acesso.
 
-### Infra, Cloud & Qualidade
+- **Fluxo operacional:** criação e acompanhamento de orçamentos, status e geração de PDFs.
+- **Segurança:** autenticação, políticas de acesso e verificação adicional por e-mail.
+- **Integrações:** recebimento com AWS SES/S3/SQS/Lambda e envio com Resend; aplicação web e estrutura para desktop com Tauri.
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="26" height="26" alt="Docker" /> <strong>Docker</strong>
-  &nbsp;&nbsp;&nbsp;
-  <img src="./assets/aws-logo-2025.svg" width="40" height="27" alt="Logo AWS" /> <strong>AWS</strong>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="26" height="26" alt="Git" /> <strong>Git</strong>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="26" height="26" alt="GitHub Actions" /> <strong>GitHub Actions</strong>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="26" height="26" alt="Playwright" /> <strong>Playwright</strong>
-</p>
----
+[Repositório](https://github.com/samuelggds/Project-Budget) · [Estudo de caso](portfolio/mg-orcamentos.md) · [Site institucional da empresa](https://mgrefrigeracoes.com.br/)
 
-## 🚀 Projetos em destaque
+*O site institucional não é uma demonstração pública do painel de orçamentos.*
 
-### 🍽️ [GastroNexa — SaaS multi-restaurante](https://github.com/samuelggds/samuelggds/blob/main/portfolio/gastronexa.md)
+### 3. [SaaS de Orçamentos — assinaturas e controle de acesso](https://github.com/samuelggds/Projeto-Budget-2)
 
-Plataforma SaaS para restaurantes com operação completa de **pedidos, mesas, cozinha e delivery**, construída com arquitetura multi-tenant.
+Projeto independente de orçamentos com clientes, estoque, PDFs e cobrança recorrente por Pix. Inclui perfis de acesso, políticas RLS no Supabase, regras de bloqueio por assinatura e testes automatizados.
 
-**Destaques:**
-- React + TypeScript no front-end e Node.js + Express no back-end.
-- PostgreSQL + Prisma com isolamento de dados por restaurante.
-- Atualizações em tempo real com Socket.IO.
-- Integrações de pagamento, webhooks e fluxos de assinatura.
-- Testes automatizados com Playwright e CI com GitHub Actions.
+**Stack:** React, TypeScript, Supabase, Edge Functions, Mercado Pago, Vitest e Tauri.
 
-📖 **[Ver apresentação da GastroNexa](https://github.com/samuelggds/samuelggds/blob/main/portfolio/gastronexa.md)**
-
-🌐 **[Ver GastroNexa online](https://www.gastronexa.com.br/)** · 💻 **[Código do GastroNexa](https://github.com/samuelggds/Projeto-Restaurants)**
-
-### 🧾 [Sistema de Orçamentos](https://github.com/samuelggds/samuelggds/blob/main/portfolio/orcamentos.md)
-
-Aplicação para gestão de **orçamentos, clientes, serviços, estoque e PDFs**, com controle de acesso e cobrança recorrente.
-
-**Destaques:**
-- React + TypeScript e Supabase.
-- Estoque integrado aos itens dos orçamentos.
-- Geração de documentos em PDF.
-- Controle de acesso por papéis e regras no banco.
-- Integração de cobrança Pix com Mercado Pago e automações de manutenção.
-
-📖 **[Ver apresentação do Sistema de Orçamentos](https://github.com/samuelggds/samuelggds/blob/main/portfolio/orcamentos.md)**
-
-💻 **[Código do MG Orçamentos](https://github.com/samuelggds/Projeto-Budget-2)** · 🌐 **[Site institucional da MG Refrigerações](https://mgrefrigeracoes.com.br/)**
-
-> O site institucional apresenta a empresa; o sistema de orçamentos é uma aplicação separada.
+[Repositório](https://github.com/samuelggds/Projeto-Budget-2) · [Estudo de caso](portfolio/orcamentos.md)
 
 ---
 
-## ⚙️ Áreas que fazem parte do meu dia a dia
+## Stack e prática de engenharia
 
-`SaaS` • `APIs REST` • `Multi-tenant` • `Autenticação` • `RBAC` • `PostgreSQL` • `Webhooks` • `Pagamentos` • `Real-time` • `Docker` • `CI/CD` • `Cloud`
+| Área | Tecnologias e práticas |
+| --- | --- |
+| Backend | Node.js, TypeScript, Express, APIs REST, JWT, webhooks, Socket.IO |
+| Frontend | React, TypeScript, Vite, Styled Components, HTML, CSS |
+| Dados e segurança | PostgreSQL, Prisma, Supabase, RBAC, RLS, isolamento multi-tenant |
+| Infraestrutura | Docker, AWS, GitHub Actions, CI/CD |
+| Qualidade | Testes unitários, integração e E2E conforme o risco; Playwright e Vitest |
 
----
+Busco resolver problemas de negócio com regras aplicadas no backend, autorização orientada ao usuário autenticado, documentação e testes proporcionais ao risco. Os projetos acima foram desenvolvidos de forma independente e demonstram minha atuação técnica; não são apresentados como vínculos empregatícios anteriores.
 
-<div align="center">
+## Contato
 
-### Vamos conversar?
-
-Estou aberto a oportunidades e projetos com **TypeScript, Node.js, React e desenvolvimento Full Stack**.
-
-[![LinkedIn](https://img.shields.io/badge/Falar_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-gomes08/)
-
-</div>
+[LinkedIn](https://www.linkedin.com/in/samuel-gomes08/) · [GitHub](https://github.com/samuelggds) · [E-mail](mailto:accyt2@hotmail.com)

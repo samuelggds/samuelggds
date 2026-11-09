@@ -1,8 +1,8 @@
-# Sistema de Orçamentos
+# SaaS de Orçamentos com Assinaturas
 
 **Desenvolvimento Full Stack · Projeto pessoal de Samuel Gomes**
 
-Aplicação para organizar clientes, serviços, estoque e orçamentos, com emissão de documentos em PDF. O projeto reúne tarefas administrativas em uma interface web e inclui uma versão desktop.
+Projeto independente de gestão de orçamentos com clientes, serviços, estoque e emissão de documentos em PDF, associado ao repositório Projeto-Budget-2. É distinto da aplicação MG Orçamentos da MG Refrigerações. O projeto reúne tarefas administrativas em uma interface web e inclui uma versão desktop.
 
 ![Fluxo funcional do Sistema de Orçamentos: clientes e serviços, orçamento, estoque e documento PDF](assets/orcamentos-fluxo.svg)
 
@@ -39,4 +39,4 @@ O projeto envolve integração entre dados administrativos, permissões no banco
 
 Esta apresentação contém apenas uma visão geral funcional e técnica. O código-fonte, os dados de clientes e as regras comerciais internas não fazem parte deste material.
 
-[Conversar no LinkedIn](https://www.linkedin.com/in/samuel-gomes-3493a2447/) · [Voltar ao perfil](https://github.com/samuelggds)
+[Conversar no LinkedIn](https://www.linkedin.com/in/samuel-gomes08/) · [Voltar ao perfil](https://github.com/samuelggds)

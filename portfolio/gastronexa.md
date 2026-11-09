@@ -38,4 +38,4 @@ O projeto envolve organização de dados por restaurante, permissões conforme a
 
 Esta apresentação reúne apenas uma visão geral do produto e uma prévia visual. O código-fonte, as configurações de implantação e os dados de operação não fazem parte deste material.
 
-[Conversar no LinkedIn](https://www.linkedin.com/in/samuel-gomes-3493a2447/) · [Voltar ao perfil](https://github.com/samuelggds)
+[Conversar no LinkedIn](https://www.linkedin.com/in/samuel-gomes08/) · [Voltar ao perfil](https://github.com/samuelggds)
